@@ -7,8 +7,8 @@ Based on the starknet air investment qualification, a world-class project is now
 做大做强，大家star起来，把项目顶到5000，共同富裕。
 
 
-# [区块链新闻](https://github.com/fundgao/crypto-airdrop/tree/main/crypto-news)
+# 其他板块
 
+- [区块链新闻](https://github.com/fundgao/crypto-airdrop/tree/main/crypto-news)
 
-
-# [区块链新项目](https://github.com/fundgao/crypto-airdrop/tree/main/crypto-new-project)
+- [区块链新项目](https://github.com/fundgao/crypto-airdrop/tree/main/crypto-new-project)
