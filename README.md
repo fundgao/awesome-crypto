@@ -14,3 +14,7 @@ Based on the starknet air investment qualification, a world-class project is now
 - [区块链新项目](https://github.com/fundgao/crypto-airdrop/tree/main/crypto-new-project)
 
 <img width="600" src="./blockchain.png"/>
+
+# 技术基础
+
+C++ -> GO -> RUST -> MOVE | JavaScript
