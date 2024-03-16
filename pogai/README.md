@@ -1,0 +1,4 @@
+## POGAI 国人盘
+
+2024-03-15 仿 BOME，在 SOL 链上发射 $POGAI - Proof of Great AI
+
