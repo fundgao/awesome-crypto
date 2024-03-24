@@ -22,6 +22,20 @@ C++ -> GO -> RUST -> MOVE | JavaScript
 
 # 工具网站
 
-- [Ave](https://ave.ai)查看 Token 相关信息
-- [Defillama](https://defillama.com)查看总质押量TVL
+- [Ave](https://ave.ai) 查看 Token 相关信息
+- [Defillama](https://defillama.com) 查看总质押量TVL
+```
+专注于去中心化金融(DeFi)项目的数据,为用户提供全面的 DeFi 资产和协议分析。
+基本上有名的 DeFi 协议和项目都可以在这个网站上查询到,对于数据指标的分析十分有用。
+```
 - [Dune](https://dune.com/home)
+```
+通过自定义查询和可视化,允许用户深入分析链上数据,是数据科学家和分析师的首选工具。
+```
+- [arkham](https://www.arkhamintelligence.com/)
+```
+提供了一系列高级链上分析功能,帮助用户跟踪资金流动和识别市场趋势。
+在本次的比特币 ETF 热潮中,Arkham 识别和记录了各大ETF持有比特币的数量,
+比例和流入流出,从而给价格预测提供了一个良好的角度。
+```
+
