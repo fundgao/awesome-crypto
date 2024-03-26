@@ -39,3 +39,80 @@ C++ -> GO -> RUST -> MOVE | JavaScript
 比例和流入流出,从而给价格预测提供了一个良好的角度。
 ```
 
+# World Coin
+
+$WLD to the moon
+
+## 老公链 L1
+- SOL
+- AVAX
+- MATIC
+- ADA
+- NEAR
+- ATOM
+
+
+## 牛市末日战车
+- BCH
+- ETC
+- EOS
+- BSV
+
+
+## 新高性能公链 L1
+- APT
+- SUI
+- SEI
+
+
+## AI 板块
+- WLD
+- RNDR
+- ARKM
+- FET
+
+
+## BRC20 铭文
+- ORDI
+- RATS
+- SATS
+
+
+## 破产板块 & 监狱板块
+- LUNA
+- LUNC
+- USTC
+- FTT
+- FTM
+
+
+## Meme
+- DOGE
+- SHIB
+- PEPE
+- TROLL
+- FLOKI
+- GROK
+
+
+## 粉丝币板块
+- CHZ
+- SANTOS
+- BAR
+- PSG
+- LAZIO
+
+
+## 游戏板块
+- YGG
+- AXS
+- GALA
+- SAND
+- MANA
+
+
+## RWA板块
+- ONDO
+- POLYX
+
+
