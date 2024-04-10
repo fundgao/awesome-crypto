@@ -2,9 +2,9 @@
 
 2024-03-15 仿 BOME，在 SOL 链上发射 $POGAI - Proof of Great AI
 
-<img width="600" src="./pogai1.png"/>
-<img width="600" src="./pogai2.png"/>
-<img width="600" src="./pogai3.png"/>
-<img width="600" src="./pogai4.png"/>
-<img width="600" src="./pogai5.png"/>
-<img width="600" src="./pogai6.png"/>
+<img width="600" src="assets/pogai1.png"/>
+<img width="600" src="assets/pogai2.png"/>
+<img width="600" src="assets/pogai3.png"/>
+<img width="600" src="assets/pogai4.png"/>
+<img width="600" src="assets/pogai5.png"/>
+<img width="600" src="assets/pogai6.png"/>
