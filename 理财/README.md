@@ -5,16 +5,16 @@
     年化率 68%
 
 
-<img src='assets/MEXC01.png' />
-<img src='assets/MEXC02.png' />
-<img src='assets/MEXC03.png' />
-<img src='assets/MEXC04.png' />
-<img src='assets/MEXC05.png' />
-<img src='assets/MEXC06.png' />
-<img src='assets/MEXC07.png' />
-<img src='assets/MEXC08.png' />
-<img src='assets/MEXC09.png' />
-<img src='assets/MEXC10.png' />
-<img src='assets/MEXC11.png' />
-<img src='assets/MEXC12.png' />
-<img src='assets/MEXC13.png' />
+<img width="600" src='assets/MEXC01.png' />
+<img width="600" src='assets/MEXC02.png' />
+<img width="600" src='assets/MEXC03.png' />
+<img width="600" src='assets/MEXC04.png' />
+<img width="600" src='assets/MEXC05.png' />
+<img width="600" src='assets/MEXC06.png' />
+<img width="600" src='assets/MEXC07.png' />
+<img width="600" src='assets/MEXC08.png' />
+<img width="600" src='assets/MEXC09.png' />
+<img width="600" src='assets/MEXC10.png' />
+<img width="600" src='assets/MEXC11.png' />
+<img width="600" src='assets/MEXC12.png' />
+<img width="600" src='assets/MEXC13.png' />
