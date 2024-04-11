@@ -1,4 +1,9 @@
 ### [抹茶阳光普照](https://zhuanlan.zhihu.com/p/656195669)
+
+```
+注册链接: https://www.mexc.com/register?inviteCode=1K9Bo
+```
+
     2024-04-10
     目前持仓3045个MX，5.7u/个，17356u。
     日均新上12个项目，2.72u/个项目，约32u。
