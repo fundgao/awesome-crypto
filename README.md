@@ -7,6 +7,7 @@ Based on the starknet air investment qualification, a world-class project is now
 做大做强，大家star起来，把项目顶到5000，共同富裕。
 
 # 抹茶交易所
+- [阳光普照](理财)
 ```
 注册链接：https://www.mexc.com/register?inviteCode=1K9Bo
 ```
