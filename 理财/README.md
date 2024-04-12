@@ -1,4 +1,4 @@
-### [抹茶阳光普照](https://zhuanlan.zhihu.com/p/656195669)
+### [抹茶阳光普照 - 年化率高达 80%](https://zhuanlan.zhihu.com/p/656195669)
 
 ```
 注册链接: https://www.mexc.com/register?inviteCode=1K9Bo
