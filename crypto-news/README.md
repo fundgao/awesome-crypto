@@ -175,3 +175,74 @@ A*. $APT $SUI
 8、2024年12月19日，利率决议+经济展望。（市场中性假设：第二次降息）
 此外，美国大选是11月5日。
 ```
+
+2024-04-11
+```
+#接龙 
+1. https://twitter.com/FomoBase
+BASE预售 1小时  15M$ ，很多老外冲，盯开盘能吃肉，提前准备好BASE钱包
+
+2. 符文元宇宙 runse verse 明晚可以打
+https://twitter.com/GenifyHQ
+
+3.符文黑曜石，0.0015BTCmint价格，晚上21点公售，布偶背景
+https://inscribenow.io/collections/632335884d6230e3
+
+4.INKs ，0.0005 BTC 晚上22点白名单，23点ink持有者，24点公售
+https://ordinalgenesis.xyz/mint/7623f930474e2044
+
+5.大猩猩，免费 23点白名单，1点公售
+https://magiceden.io/ordinals/launchpad/runesterminal
+https://ordzaar.com/marketplace/collections/apeodyssey/mints
+
+6.大理石，0.015 BTC，24点白名单（符石持有者就是白，1点30公售）数量少可以无脑上
+https://magiceden.io/ordinals/launchpad/theblockcollection
+
+7.12号凌晨6点开盘，base上热度很高的青蛙猴
+https://twitter.com/moonthepoon
+
+8.punk的新填表项目
+https://twitter.com/RunesPunks/status/1778185353075302801
+
+9.留bsc地址
+https://twitter.com/hodlstrong_/status/1778111860014981267
+```
+
+2024-04-12
+```
+4.12梭哈晨报：
+
+1. $btc 继续上下震荡，直接磨死了一大批山寨，山寨继续阴跌中；
+
+2. JPMorgan 表示，“低迷” 的加密货币风险投资构成下行风险；
+
+3. $TON 的市值反超 $DOGE ；
+
+4.Craig Wright 放弃对挪威 Hodlonaut 的上诉；
+
+5.Chainlink 推出跨链代币传输应用 Transporter，支持以太坊等多个区块链 ；
+
+6.Coinbase 将于 4 月 18 日上线 Pepe 永续期货合约；
+
+7.
+@1intro
+  将于 4 月 14 日进行 INTRO LBP 公开发售，40% INTRO 总供应量将分配给生态系统 / 激励措施；
+
+8.Arkham 平台已支持用户监控 NYDIG 关联地址；
+
+9.Omni Network 公布其 300 万枚 OMNI 创世空投详情，代币总供应量为 1 亿枚；
+
+10.Olive Network 与 CoinList 合作推出 “Olive Staking Saga” 奖励活动，将分发 15 亿 OLIVE 代币；
+
+11. Circle 推出了一种交易 BlackRock 代币化基金股份以换取 USDC 的方式；
+
+12.4 月 Base NFT 交易量逼近 2,800 万美元，创下月度新高；
+
+Base上的NFT持续火热中，只是无门入的人永远找不到入口；
+
+13.#bitcoinnft 急需狂暴，freemint完的立马能卖0.07btc的比比皆是，你永远不知道谁在买；
+
+14.美国 3 月 PPI 年率录得 2.1%，为 2023 年 4 月以来新高；
+```
+
+
