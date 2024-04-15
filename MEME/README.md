@@ -1,7 +1,7 @@
 ### MEXC 交易所
 持仓逻辑：
-- 碰瓷MEME - 新技术 SORE、马斯克 TROLL
-- 公链第一个MEME APT - LME SUI - SCB
+- 碰瓷MEME: 新技术 SORE、马斯克 TROLL
+- 公链第一个MEME: APT - LME、SUI - SCB
 
 ```
 2024-04-11
