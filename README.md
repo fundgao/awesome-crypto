@@ -12,20 +12,8 @@ Based on the starknet air investment qualification, a world-class project is now
 注册链接：https://www.mexc.com/register?inviteCode=1K9Bo
 ```
 
-# 其他板块
-
-- [区块链新闻](https://github.com/fundgao/crypto-airdrop/tree/main/crypto-news)
-
-- [区块链新项目](https://github.com/fundgao/crypto-airdrop/tree/main/crypto-new-project)
-
-<img width="600" src="assets/blockchain.png"/>
-
-# 技术基础
-
-C++ -> GO -> RUST -> MOVE | JavaScript
-
-
 # 工具网站
+- [CoinTool](https://cointool.app/dashboard) - 强烈推荐！！！
 - [Messari](https://messari.io/research) 高质量研报
 - [Ave](https://ave.ai) 查看 Token 相关信息
 - [Defillama](https://defillama.com) 查看总质押量TVL
@@ -47,6 +35,18 @@ C++ -> GO -> RUST -> MOVE | JavaScript
 # World Coin
 
 $WLD to the moon
+
+# 其他板块
+
+- [区块链新闻](https://github.com/fundgao/crypto-airdrop/tree/main/crypto-news)
+
+- [区块链新项目](https://github.com/fundgao/crypto-airdrop/tree/main/crypto-new-project)
+
+<img width="600" src="assets/blockchain.png"/>
+
+# 技术基础
+
+C++ -> GO -> RUST -> MOVE | JavaScript
 
 ## 老公链 L1
 - SOL
