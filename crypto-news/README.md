@@ -245,4 +245,72 @@ Base上的NFT持续火热中，只是无门入的人永远找不到入口；
 14.美国 3 月 PPI 年率录得 2.1%，为 2023 年 4 月以来新高；
 ```
 
+2024-04-17
+```
+今日热榜
 
+1. 香港开启ETF通道：5亿美元规模预期是保守还是乐观？ (https://s.followin.io/s/dTAkUuSGEi)
+
+2. 前纽约联邦储备银行合规主管加入币安美国董事会 (https://s.followin.io/s/Qs2kSWFzEm)
+
+3. Solana期货交易所 Drift 将向 DeFi 交易者空投 1 亿个代币 (https://s.followin.io/s/WXVPxZduFi)
+
+4. PayPal 取消对 NFT 的买家和卖家保护 (https://s.followin.io/s/gvbNLuZKFV)
+
+5. Genesis破产案中与债权人的拟议和解协议拟于今日审议 (https://s.followin.io/s/wugPsU4wG8)
+
+6. Safe披露SAFE代币经济学详情：初始流通量4.27亿枚，兑现期限为8年 (https://s.followin.io/s/Jd9MYYzvEy)
+
+7. Tether Treasury于波场区块链增发10亿枚USDT (https://s.followin.io/s/5wrVXh5xFB)
+
+8. Amber Group一小时前疑似再次卖出100万枚ARB (https://s.followin.io/s/V4Gcy7nrEe)
+
+9. Ethena项目方多签地址过去2小时向CEX转入3512万枚ENA (https://s.followin.io/s/ABGrJEyKDh)
+
+10. Alchemy Pay宣布将香港确定为关键战略市场区域 (https://s.followin.io/s/t8CKWK8KCr)
+
+11. 灰度向Coinbase Prime地址转入约4666枚BTC (https://s.followin.io/s/AUd3r2bADE)
+
+12. 4.33亿枚USDT从Tether Treasury转至Bitfinex (https://s.followin.io/s/3nAFF2JLC8)
+
+13. GCR：Crypto界的逆向交易大师与他的传奇旅程 (https://s.followin.io/s/KPwGHkpnFL)
+
+14. 减半后比特币稀缺会引发稳定多头市场 (https://s.followin.io/s/CWhUpVnUFA)
+
+15. 昨日灰度GBTC净流出7940万美元，ARKB净流出1290万美元 (https://s.followin.io/s/ATv7drgPEr)
+```
+
+2024-04-18
+```
+今日热榜
+
+1. WorldCoin宣布推出二层网络World Chain (https://s.followin.io/s/F3EmiVLmE5)
+
+2. 字节跳动子公司BytePlus与Sui合作进入Web3，专注于游戏和SocialFi (https://s.followin.io/s/r2LVyQ7SDu)
+
+3. 比特币价格能跌到多低？分析争议“黑天鹅事件” (https://s.followin.io/s/Tah5a3nDDs)
+
+4. ONDO项目方关联地址20分钟前向Coinbase充值20万枚OMNI (https://s.followin.io/s/j835yQcgDy)
+
+5. Scroll推出忠诚度积分计划向用户发放追溯积分 (https://s.followin.io/s/NsgjfjbCFr)
+
+6. Kraken推出自托管钱包“Kraken Wallet” (https://s.followin.io/s/8j8jd6D8Ck)
+
+7. Coinbase将上线OMNI (https://s.followin.io/s/Q7xf4RmME8)
+
+8. 过去1小时全网爆仓3170万美元，主爆多单 (https://s.followin.io/s/DVpRCWQCDc)
+
+9. 40 分钟前一巨鲸在链上花费1000万USDT买入3,278枚ETH (https://s.followin.io/s/cxG4STxQEg)
+
+10. 破产法院已口头批准Gemini、Genesis及其破产案债权人的拟议和解协议 (https://s.followin.io/s/sfm4CJ5bDy)
+
+11. 谷歌搜索“比特币减半”创下历史新高 (https://s.followin.io/s/66rFBvnkEP)
+
+12. 灰度向Coinbase Prime地址转入约1694枚BTC (https://s.followin.io/s/YPZu2dYCEC)
+
+13. Ronin链上游戏Ragnarok：Monster World拟于今年三季度推出 (https://s.followin.io/s/KrPVEJLRDi)
+
+14. HODL15 Capital：Mr.100最近三天购买了几乎所有新开采的比特币 (https://s.followin.io/s/eEkFqEcvFL)
+
+15. 一巨鲸向币安充值140万枚WLD ，价值约合678万美元 (https://s.followin.io/s/sMcv6nnrGF)
+```
