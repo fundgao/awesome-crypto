@@ -8,3 +8,4 @@
 - [evm_ink_rs: evm系列通用打铭文工具](https://github.com/okeyzero/evm_Ink_Rs)
 - [sui 链的打铭文](https://github.com/okeyzero/suiProject)
   https://issp.io/#/sui20
+- [Coin Tool 强烈推荐](https://cointool.app/dashboard)
