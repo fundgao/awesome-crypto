@@ -13,6 +13,7 @@ Based on the starknet air investment qualification, a world-class project is now
 ```
 
 # 工具网站
+- [指纹浏览器](https://www.clonbrowser.net) 多账号、多ip
 - [CoinTool](https://cointool.app/dashboard) - 强烈推荐！！！
 - [BTC贪婪指数 binance](https://www.binance.com/zh-CN/square/fear-and-greed-index)
 - [Messari](https://messari.io/research) 高质量研报
