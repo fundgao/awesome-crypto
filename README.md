@@ -32,6 +32,7 @@ Based on the starknet air investment qualification, a world-class project is now
 在本次的比特币 ETF 热潮中,Arkham 识别和记录了各大ETF持有比特币的数量,
 比例和流入流出,从而给价格预测提供了一个良好的角度。
 ```
+- [银河任务积分](https://app.galxe.com/quest) 撸毛任务网站
 
 # World Coin
 
