@@ -39,11 +39,46 @@ Based on the starknet air investment qualification, a world-class project is now
 
 $WLD to the moon
 
+# 招聘平台
+- [ABetterWeb3](https://abetterweb3.notion.site/abetterweb3/daa095830b624e96af46de63fb9771b9)
+- [Foresight news](https://foresightnews.pro/job)
+- [电鸭社区](https://eleduck.com/search?keyword=web3)
+- [TinTin Job Board](https://attractive-spade-1e3.notion.site/37f6da2316a845fba6ff6f62f3c50289?v=e88aaffca0ee462db5e9daa53946059f)
+- [Rebase who is hiring](https://github.com/rebase-network/who-is-hiring/issues)
+- [BOSS 直聘](https://www.zhipin.com/shanghai/)
+- [Block Job](https://twitter.com/blockjob2022)
+
 # 其他板块
-
 - [区块链新闻](https://github.com/fundgao/crypto-airdrop/tree/main/crypto-news)
-
 - [区块链新项目](https://github.com/fundgao/crypto-airdrop/tree/main/crypto-new-project)
+- [Foresight News](https://foresightnews.pro/)
+- [币安新闻](https://www.binance.com/zh-CN/square/news/all)
+- [Gate 深度](https://www.gate.io/zh/post?type=depth)
+- [陀螺科技](https://www.tuoluo.cn/kuaixun/)
+- [MarsBit 7x24H 快讯](https://news.marsbit.co/flash)
+- [Odaily 快讯](https://www.odaily.news/newsflash)
+- [律动快讯](https://www.theblockbeats.info/newsflash)
+- [PANews 快讯&深度](https://www.panewslab.com/zh/news/index.html)
+- [Chain Catcher 快讯](https://www.chaincatcher.com/news)
+- [TechFlow 7x24H 快讯](https://www.techflowpost.com/newsletter/index.html)
+
+# 官方文档
+以下是一些常用工具和库的官方文档链接：
+- [Solidity 官方文档](https://docs.soliditylang.org/en/) - 智能合约编程语言。
+- [OpenZeppelin](https://www.openzeppelin.com/) - Solidity 安全开发工具库。
+- [Remix IDE 官方文档](https://remix.run/docs/en/v1) - Solidity 开发的在线 IDE。
+- [Hardhat](https://hardhat.org/) - 用于智能合约开发的环境框架。
+- [Truffle Suite](https://trufflesuite.com/) - 包含 Truffle、Ganache 和 Drizzle 的智能合约开发环境。
+- [Ethers.js 官方文档](https://docs.ethers.org/) - 用于与智能合约交互的库。
+- [Web3.js 官方文档](https://web3js.readthedocs.io/en/) - 另一种用于智能合约交互的库。
+- [Viem](https://viem.sh/) - 最新的智能合约交库。
+- [Wagmi](https://wagmi.sh/) - 提供 React Hooks 风格 API 的智能合约交互库。
+- [RainbowKit](https://www.rainbowkit.com/zh-CN/docs/introduction) - 用于构建 Web3 钱包连接界面的库，支持 React。
+
+# 书籍
+以下是一些推荐的区块链和 Web3 相关书籍：
+- [精通比特币](https://github.com/tianmingyun/MasterBitcoin2CN) - 对比特币深入讲解的书籍。
+- [精通以太坊](https://github.com/inoutcode/ethereum_book) - 以太坊技术深入分析的书籍。
 
 <img width="600" src="assets/blockchain.png"/>
 
