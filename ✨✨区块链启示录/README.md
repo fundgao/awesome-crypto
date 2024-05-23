@@ -1,21 +1,21 @@
 # 区块链启示录
 
 ## 工具篇
-<img width="400" src="assets/区块链工具.jpg"/>
+<img width="200" src="assets/区块链工具.jpg"/>
 
 ### 资讯
-<img width="400" src="assets/星球日报.png"/>
+<img width="200" src="assets/星球日报.png"/>
 
 ### 交易所
 二级市场
 
 - 币安 binance - 世界顶级交易所  
-  注册[https://www.mexc.com/register?inviteCode=1K9Bo](https://www.mexc.com/register?inviteCode=1K9Bo)
+  注册[https://accounts.suitechsui.io/register?ref=81605142](https://accounts.suitechsui.io/register?ref=81605142)
 
   meme币的终点
 
   有质押、赚币、理财  
-  <img width="400" src="assets/binance.jpg"/>
+  <img width="200" src="assets/binance.jpg"/>
 
 - 抹茶 mexc - 二线交易所  
   注册[https://www.mexc.com/register?inviteCode=1K9Bo](https://www.mexc.com/register?inviteCode=1K9Bo)
@@ -24,7 +24,7 @@
 
   阳光普照 - 年化率 80%
 
-  <img width="400" src="assets/mexc.jpg"/>
+  <img width="200" src="assets/mexc.jpg"/>
 
 
 ### 钱包
