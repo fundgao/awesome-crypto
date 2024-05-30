@@ -137,6 +137,14 @@ C++ -> GO -> RUST -> MOVE | JavaScript
 - FLOKI
 - GROK
 
+2024-05 Meme
+- BB
+- NOT
+- MANEKI
+- BOME
+- SLERF
+
+
 
 ## 粉丝币板块
 - CHZ
