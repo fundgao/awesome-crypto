@@ -127,7 +127,7 @@ C++ -> GO -> RUST -> MOVE | JavaScript
 - USTC
 - FTT
 - FTM
-
+  
 
 ## Meme
 - DOGE
@@ -136,6 +136,8 @@ C++ -> GO -> RUST -> MOVE | JavaScript
 - TROLL
 - FLOKI
 - GROK
+- WIF
+
 
 2024-05 Meme
 - BB
@@ -143,7 +145,6 @@ C++ -> GO -> RUST -> MOVE | JavaScript
 - MANEKI
 - BOME
 - SLERF
-
 
 
 ## 粉丝币板块
