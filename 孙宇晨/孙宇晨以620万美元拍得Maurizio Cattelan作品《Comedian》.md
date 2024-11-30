@@ -2,7 +2,7 @@
 
 11 月 21 日，波场 TRON 创始人孙宇晨在社交平台宣布，其以 620 万美元价格成功拍下意大利艺术家 Maurizio Cattelan 的标志性艺术作品《Comedian》。
 
-<img width="600" src="assets/sunban.webp"/>
+<img width="600" src="../assets/sunban.webp"/>
 
 孙宇晨表示，这件作品不仅是一件艺术品，更是一种连接艺术、meme 和加密社区的文化现象。其相信《Comedian》将在未来激发更多思考和讨论，并期待这件作品为全球艺术爱好者带来更多启发。
 

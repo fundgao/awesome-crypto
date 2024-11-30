@@ -11,4 +11,4 @@
 
 Odaily 评：相比百年前的《Fountain》—— 注：法国艺术家马塞尔·杜尚（Marcel Duchamp）《readymades》（现成品）系列中的《Fountain》（泉），一个被翻倒放置在底座上的小便池，署名 R.Mutt，首展于 1917 年纽约独立艺术家协会，被认为颠覆传统艺术形式，并以消解严肃性和创作门槛成为当代艺术的重要注脚 —— 由一根香蕉、一捆胶带、作品安装手册、真迹收藏证书构成的《Comedian》更具“忒修斯之船”意味。如果说《Comedian》在延申讨论“物质及存在、身份与本质”，那此次孙宇晨现场直播吃香蕉则基于当今 Meme 文化，进一步“以传播放大艺术，用行为抬升价值”。
 
-<img width="600" src="assets/sunban.jpeg"/>
+<img width="600" src="../assets/sunban.jpeg"/>
