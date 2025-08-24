@@ -113,6 +113,7 @@ C++ -> GO -> RUST -> MOVE | JavaScript
 - RNDR
 - ARKM
 - FET
+- TAO
 
 
 ## BRC20 铭文
@@ -145,6 +146,8 @@ C++ -> GO -> RUST -> MOVE | JavaScript
 - MANEKI
 - BOME
 - SLERF
+- AI16Z
+- PUMP
 
 
 ## 粉丝币板块
@@ -167,11 +170,7 @@ C++ -> GO -> RUST -> MOVE | JavaScript
 - ONDO
 - POLYX
 
-```
-大热必死，众骂必赚
-步骤越难，倍数越多
-Gas越费，铭文越贵
-持仓越多，越能上所
-龙一必梭，龙二防身
-看到拆分，加仓再跟
-```
+
+## Trump
+- TRUMP
+- WLFI
