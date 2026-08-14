@@ -172,5 +172,6 @@ C++ -> GO -> RUST -> MOVE | JavaScript
 
 
 ## Trump
+- [Solana Token Price Alert (n8n)](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow: alerts on Telegram when a Solana SPL token price crosses a threshold, no external database, ready in 5 minutes.
 - TRUMP
 - WLFI
