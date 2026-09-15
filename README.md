@@ -79,6 +79,7 @@ $WLD to the moon
 以下是一些推荐的区块链和 Web3 相关书籍：
 - [精通比特币](https://github.com/tianmingyun/MasterBitcoin2CN) - 对比特币深入讲解的书籍。
 - [精通以太坊](https://github.com/inoutcode/ethereum_book) - 以太坊技术深入分析的书籍。
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 <img width="600" src="assets/blockchain.png"/>
 
